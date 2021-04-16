@@ -1,4 +1,5 @@
 # hello
 hello github
 hello ai
-## this is the first try
+hello python
+## help me if you have better ideas
